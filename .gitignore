@@ -12,3 +12,4 @@ next-env.d.ts
 # Original loose photos; copies live in public/images
 /bonda jagan.jpg
 /palla srinivas.jpeg
+.env*
